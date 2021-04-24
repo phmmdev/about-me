@@ -1,8 +1,6 @@
-# what am I working on?
+# What am I working on? 
 
-## See my git hub statistics 
-
-# About me
+## See my git hub statistics
 
 ### Programming languages that I used
 
