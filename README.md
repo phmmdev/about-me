@@ -9,3 +9,4 @@
 ### GitHub stats
 
 [![phmmdev](https://github-readme-stats.vercel.app/api?username=phmmdev&show_icons=true&theme=dracula&hide_title=true&count_private=true)](https://github.com/phmmdev)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=phmmdev)
